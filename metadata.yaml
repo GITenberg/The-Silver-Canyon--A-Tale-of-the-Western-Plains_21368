@@ -1,0 +1,51 @@
+_repo: The-Silver-Canyon--A-Tale-of-the-Western-Plains_21368
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Hildibrand, Henri Théophile
+    aliases:
+    - Hildibrand
+    - Hildibrand, Henri Theophile
+    birthdate: 1824
+    deathdate: 1897
+    gutenberg_agent_id: '9881'
+    url: http://www.gutenberg.org/2009/agents/9881
+  - agent_name: Riou, Edouard
+    aliases:
+    - Riou
+    - Riou, Édouard
+    - Riou, E. (Edouard)
+    birthdate: 1833
+    deathdate: 1900
+    gutenberg_agent_id: '33898'
+    url: http://www.gutenberg.org/2009/agents/33898
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fenn, George Manville
+    aliases:
+    - Fenn, G. Manville (George Manville)
+    - Fenn, G. M. (George Manville)
+    birthdate: 1831
+    deathdate: 1909
+    gutenberg_agent_id: '3840'
+    url: http://www.gutenberg.org/2009/agents/3840
+    wikipedia: http://en.wikipedia.org/wiki/George_Manville_Fenn
+description: ''
+gutenberg_issued: '2007-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21368'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Western stories'
+- !lcsh 'Frontier and pioneer life -- New Mexico -- Juvenile fiction'
+title: 'The Silver Canyon: A Tale of the Western Plains'
+url: http://www.gutenberg.org/ebooks/21368
